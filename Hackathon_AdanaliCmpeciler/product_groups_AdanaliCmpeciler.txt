@@ -1,0 +1,5 @@
+Product Group 1:	Elbise
+Product Group 2:	Mayo
+Product Group 3:	Outdoor Ayakkabı
+Product Group 4:	Defter
+Product Group 5:	Elektronik
